@@ -10,6 +10,18 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a Ch
 
 ### New
 
+### Changes
+
+### Fixes
+
+### Breaks
+
+
+## 1.3.0 - (2025-02-07)
+---
+
+### New
+
 - add permissions boundary to seedkit CodeBuild IAM role
 - add `--synth` option to `deploy_seedkit` CLI
 - add `**kwargs` to `deploy_seedkit` API
